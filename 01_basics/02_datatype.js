@@ -15,6 +15,6 @@ let state=null
 
 //object
 
-console.log(typeof "supriya");
+console.log(typeof "supriyaa");
 console.log(typeof undefined); //undefined
 console.log(typeof null); //object
